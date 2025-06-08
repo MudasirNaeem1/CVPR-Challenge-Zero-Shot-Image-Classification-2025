@@ -1,0 +1,1 @@
+# CVPR-Challenge-Zero-Shot-Image-Classification-2025
