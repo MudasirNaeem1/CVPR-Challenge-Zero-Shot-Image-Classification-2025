@@ -35,6 +35,8 @@ graph TD
 ## ❗ Problem Statement
 Zero-shot learning addresses the fundamental challenge of recognizing objects or categories that were not present in the training data. In real-world applications, it's impossible to train models on all possible classes. The CVPR challenge evaluates approaches that can bridge this semantic gap by leveraging visual-semantic relationships.
 
+Challenge Link : https://vizwiz.org/tasks-and-datasets/image-classification/ 
+
 <div align="center">
 
 ```mermaid
@@ -131,6 +133,14 @@ graph TD
 
 *Methodological Approach Pipeline*
 </div>
+
+## VizWiz Classification Dataset (CVPR 2025) 
+
+The Dataset is selected from this Website (this is our challenge website as well). 
+      • https://vizwiz.org/tasks-and-datasets/image-classification/ 
+
+We Downloaded the Training Dataset and Upload into Drive to further use in Project implementation. 
+      • https://drive.google.com/drive/folders/12b4Xm9NxRNe7IdYxqrX6NUQ9irgSwJf?usp=sharing
 
 ## 📂 Files in the Repository
 - `CVPR_Final_SOTA.ipynb`: Main implementation notebook with the complete pipeline
